@@ -7,7 +7,6 @@ from texttable import Texttable
 import progressbar
 import sys
 import getpass
-from sqlalchemy import * 
 import base64
 
 def create_db():
